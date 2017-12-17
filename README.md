@@ -1,5 +1,5 @@
 # RDCL-toolkit-ja-ja
-これはRadical Productが提供しているRDCL Toolkitの日本語版です。オリジナルはwww.radicalproduct.com で入手することができます。オリジナルと同様にCC4.0で提供しています。
+これはRadical Productが提供しているRDCL Toolkitの日本語版です。オリジナルはwww.radicalproduct.com で入手することができます。オリジナルと同様にCC BY-SA 4.0で提供しています。
 
 # ツールキットの内容
 **ビジョンデベロップメントワークシート**
