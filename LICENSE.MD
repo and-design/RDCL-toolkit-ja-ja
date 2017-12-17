@@ -1,6 +1,6 @@
 Original English version is at https://www.radicalproduct.com/
 
-This is Japanese version following the original license.
+This is Japanese version following the original license CC BY-SA 4.0.
 
 # Creative Commons
 ## Attribution 4.0 International (CC BY 4.0)
